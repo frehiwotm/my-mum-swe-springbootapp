@@ -1,3 +1,3 @@
 # my-mum-swe-springbootapp
 
-This application is a springboot application. 
+This is a springboot application. 
